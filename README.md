@@ -2,11 +2,15 @@
 
 A Flutter app to keep track of game scores with your friends (if you have any)
 
-## Getting Started
+## Some information
 
-This project is a starting point for a Flutter application.
+This project is an experiment for an Innovation Day.
+It will never be completed and it will die alone in a virtual ditch.
+Give up your hopes, goodbye.
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter
+
+A few resources to get you started if you want to pick this up:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
